@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ibm.mobilefirstplatform.clientsdk.android:analytics:1.2.8-SNAPSHOT@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ibm.mobilefirstplatform.clientsdk.android/analytics/1.2.8-SNAPSHOT/fda97b4e86419eede37619c28809aecbee7751d/analytics-1.2.8-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ibm.mobilefirstplatform.clientsdk.android/analytics/1.2.8-SNAPSHOT/964f176baae038d082351574617ba059e3fbdadc/analytics-1.2.8-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
